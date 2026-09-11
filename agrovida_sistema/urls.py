@@ -4,5 +4,4 @@ from catalogo import views
 
 urlpatterns = [
     path('', views.index),
-    path('catalgo/', views.catalgo),
 ]
